@@ -21,3 +21,9 @@ Raw link format: `https://raw.githubusercontent.com/vanbasterkodi/posters/main/<
 | <img src="streaming/apple_tv_plus_releases.jpg" width="180"><br><sub>apple_tv_plus_releases.jpg</sub> | <img src="streaming/crave_releases.jpg" width="180"><br><sub>crave_releases.jpg</sub> | <img src="streaming/disney_plus_releases.jpg" width="180"><br><sub>disney_plus_releases.jpg</sub> | <img src="streaming/hbo_max_releases.jpg" width="180"><br><sub>hbo_max_releases.jpg</sub> |
 | <img src="streaming/hulu_releases.jpg" width="180"><br><sub>hulu_releases.jpg</sub> | <img src="streaming/netflix_releases.jpg" width="180"><br><sub>netflix_releases.jpg</sub> | <img src="streaming/paramount_plus_releases.jpg" width="180"><br><sub>paramount_plus_releases.jpg</sub> | <img src="streaming/peacock_plus.jpg" width="180"><br><sub>peacock_plus.jpg</sub> |
 | <img src="streaming/prime_releases.jpg" width="180"><br><sub>prime_releases.jpg</sub> | <img src="streaming/shudder_releases.jpg" width="180"><br><sub>shudder_releases.jpg</sub> | <img src="streaming/tubi_movies.jpg" width="180"><br><sub>tubi_movies.jpg</sub> |
+
+## Landscape
+
+| |
+|---|
+| <img src="streaming/netflix_releases_landscape.jpg" width="480"><br><sub>streaming/netflix_releases_landscape.jpg</sub> |
