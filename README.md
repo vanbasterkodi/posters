@@ -26,9 +26,10 @@ Raw link format: `https://raw.githubusercontent.com/vanbasterkodi/posters/main/<
 
 | | |
 |---|---|
-| <img src="streaming/apple_tv_plus_releases_landscape.jpg" width="380"><br><sub>apple_tv_plus_releases_landscape.jpg</sub> | <img src="streaming/crave_releases_landscape.jpg" width="380"><br><sub>crave_releases_landscape.jpg</sub> |
-| <img src="streaming/disney_plus_releases_landscape.jpg" width="380"><br><sub>disney_plus_releases_landscape.jpg</sub> | <img src="streaming/hbo_max_releases_landscape.jpg" width="380"><br><sub>hbo_max_releases_landscape.jpg</sub> |
-| <img src="streaming/hulu_releases_landscape.jpg" width="380"><br><sub>hulu_releases_landscape.jpg</sub> | <img src="streaming/netflix_releases_landscape.jpg" width="380"><br><sub>netflix_releases_landscape.jpg</sub> |
-| <img src="streaming/paramount_plus_releases_landscape.jpg" width="380"><br><sub>paramount_plus_releases_landscape.jpg</sub> | <img src="streaming/peacock_plus_landscape.jpg" width="380"><br><sub>peacock_plus_landscape.jpg</sub> |
-| <img src="streaming/prime_releases_landscape.jpg" width="380"><br><sub>prime_releases_landscape.jpg</sub> | <img src="streaming/shudder_releases_landscape.jpg" width="380"><br><sub>shudder_releases_landscape.jpg</sub> |
-| <img src="streaming/tubi_movies_landscape.jpg" width="380"><br><sub>tubi_movies_landscape.jpg</sub> |
+| <img src="silo/silo_recently_released_movies_landscape.jpg" width="380"><br><sub>silo/silo_recently_released_movies_landscape.jpg</sub> | <img src="silo/silo_recently_released_series_landscape.jpg" width="380"><br><sub>silo/silo_recently_released_series_landscape.jpg</sub> |
+| <img src="streaming/apple_tv_plus_releases_landscape.jpg" width="380"><br><sub>streaming/apple_tv_plus_releases_landscape.jpg</sub> | <img src="streaming/crave_releases_landscape.jpg" width="380"><br><sub>streaming/crave_releases_landscape.jpg</sub> |
+| <img src="streaming/disney_plus_releases_landscape.jpg" width="380"><br><sub>streaming/disney_plus_releases_landscape.jpg</sub> | <img src="streaming/hbo_max_releases_landscape.jpg" width="380"><br><sub>streaming/hbo_max_releases_landscape.jpg</sub> |
+| <img src="streaming/hulu_releases_landscape.jpg" width="380"><br><sub>streaming/hulu_releases_landscape.jpg</sub> | <img src="streaming/netflix_releases_landscape.jpg" width="380"><br><sub>streaming/netflix_releases_landscape.jpg</sub> |
+| <img src="streaming/paramount_plus_releases_landscape.jpg" width="380"><br><sub>streaming/paramount_plus_releases_landscape.jpg</sub> | <img src="streaming/peacock_plus_landscape.jpg" width="380"><br><sub>streaming/peacock_plus_landscape.jpg</sub> |
+| <img src="streaming/prime_releases_landscape.jpg" width="380"><br><sub>streaming/prime_releases_landscape.jpg</sub> | <img src="streaming/shudder_releases_landscape.jpg" width="380"><br><sub>streaming/shudder_releases_landscape.jpg</sub> |
+| <img src="streaming/tubi_movies_landscape.jpg" width="380"><br><sub>streaming/tubi_movies_landscape.jpg</sub> |
